@@ -1,5 +1,7 @@
 # Z390-A-prime-Hackintosh-10.15
 
+Only OC and BOOT are importent
+
 OS system: 10.15.6
 
 Specifications Detail
